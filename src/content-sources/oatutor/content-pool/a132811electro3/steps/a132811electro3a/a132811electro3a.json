@@ -3,14 +3,13 @@
     "stepAnswer": [
         "Al"
     ],
-    "problemType": "MultipleChoice",
+    "problemType": "TextBox",
     "stepTitle": "Which substance gets oxidized?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "Ag+",
         "Al",
-        "Al"
+        "Ag^{+}"
     ]
 }

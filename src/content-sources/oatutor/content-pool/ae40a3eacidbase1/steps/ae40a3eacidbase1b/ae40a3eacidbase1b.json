@@ -6,6 +6,6 @@
     "problemType": "TextBox",
     "stepTitle": "H2S",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {}
 }

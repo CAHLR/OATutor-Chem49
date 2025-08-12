@@ -4,7 +4,7 @@
         "H3O+"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Identify the conjugate acid from the dissociation of HF",
+    "stepTitle": "Identify the conjugate acid from the dissociation of HF. Do not include subscripts or superscripts.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

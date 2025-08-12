@@ -48,10 +48,10 @@
     {
         "id": "a132811electro4a-h5",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "3Pb2+(aq)+2Au(s)\u21923Pb(s)+2Au3+(aq)"
+            "$$3Pb^{2+} (aq) + 2Au(s) \\rightarrow 3Pb (s) + 2Au^{3+} (aq)$$"
         ],
         "dependencies": [
             "a132811electro4a-h4"
@@ -60,6 +60,12 @@
         "text": "Combine the balanced half-reactions to get the final balanced equation for the redox reaction.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$3Pb^{2+} (aq) + 2Au(s) \\rightarrow 3Pb (s) + 2Au^{3+} (aq)$$",
+            "$$Pb^{2+}(aq) + Au(s) \\rightarrow Pb(s) + Au^{3+}(aq)$$",
+            "$$2Pb^{2+}(aq) + 3Au(s) \\rightarrow 2Pb(s) + 3Au^{3+}(aq)$$",
+            "$$6Pb^{2+}(aq) + 4Au(s) \\rightarrow 6Pb(s) + 4Au^{3+}(aq)$$"
+        ]
     }
 ]

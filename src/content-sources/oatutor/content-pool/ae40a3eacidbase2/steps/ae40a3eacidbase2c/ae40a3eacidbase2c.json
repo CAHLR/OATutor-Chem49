@@ -3,9 +3,14 @@
     "stepAnswer": [
         "$$H_2PO_4^{-}$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "$$HPO_4^{2-}$$",
     "stepBody": "",
-    "answerType": "arithmetic",
-    "variabilization": {}
+    "answerType": "string",
+    "choices": [
+        "$$PO_4^{3-}$$",
+        "$$HPO_4^-$$",
+        "$$H_2PO_4^{-}$$",
+        "$$H_3PO_4$$"
+    ]
 }

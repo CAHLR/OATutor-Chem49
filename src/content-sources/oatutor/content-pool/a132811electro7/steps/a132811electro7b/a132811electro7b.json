@@ -3,14 +3,9 @@
     "stepAnswer": [
         "Co (s)"
     ],
-    "problemType": "MultipleChoice",
-    "stepTitle": "Identify the metal electrode that is used for the Cathode",
+    "problemType": "TextBox",
+    "stepTitle": "Identify the metal electrode that is used for the Cathode. Include the state symbol.",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {},
-    "choices": [
-        "Co (s)",
-        "Co (s)",
-        "Zn (s)"
-    ]
+    "variabilization": {}
 }

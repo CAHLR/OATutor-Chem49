@@ -3,14 +3,9 @@
     "stepAnswer": [
         "Zn (s)"
     ],
-    "problemType": "MultipleChoice",
-    "stepTitle": "Identify the metal electrode that is used for the Anode",
+    "problemType": "TextBox",
+    "stepTitle": "Identify the metal electrode that is used for the Anode. Include the state symbol.",
     "stepBody": "",
     "answerType": "string",
-    "variabilization": {},
-    "choices": [
-        "Co (s)",
-        "Zn (s)",
-        "Zn (s)"
-    ]
+    "variabilization": {}
 }
