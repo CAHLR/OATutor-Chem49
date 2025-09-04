@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CAHLR/OATutor-Chem49/static/css/main.df2c6223.css",
-    "main.js": "/CAHLR/OATutor-Chem49/static/js/main.80d1a1c8.js",
-    "static/media/Symbola.svg": "/CAHLR/OATutor-Chem49/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/CAHLR/OATutor-Chem49/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/CAHLR/OATutor-Chem49/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/CAHLR/OATutor-Chem49/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/CAHLR/OATutor-Chem49/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/CAHLR/OATutor-Chem49/index.html",
-    "main.df2c6223.css.map": "/CAHLR/OATutor-Chem49/static/css/main.df2c6223.css.map",
-    "main.80d1a1c8.js.map": "/CAHLR/OATutor-Chem49/static/js/main.80d1a1c8.js.map"
+    "main.css": "/OATutor-Chem49/static/css/main.eb6077af.css",
+    "main.js": "/OATutor-Chem49/static/js/main.8b4fbbab.js",
+    "static/media/Symbola.svg": "/OATutor-Chem49/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/OATutor-Chem49/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/OATutor-Chem49/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/OATutor-Chem49/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/OATutor-Chem49/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/OATutor-Chem49/index.html",
+    "main.eb6077af.css.map": "/OATutor-Chem49/static/css/main.eb6077af.css.map",
+    "main.8b4fbbab.js.map": "/OATutor-Chem49/static/js/main.8b4fbbab.js.map"
   },
   "entrypoints": [
-    "static/css/main.df2c6223.css",
-    "static/js/main.80d1a1c8.js"
+    "static/css/main.eb6077af.css",
+    "static/js/main.8b4fbbab.js"
   ]
 }
