@@ -131,7 +131,7 @@ class Platform extends React.Component {
     getProgressBarData() {
     if (!this.lesson) return { completed: 0, total: 0, percent: 0 };
 
-    const lessonName = String(this.lesson.name.replace("Lesson ", "") + " " + this.lesson.topics);
+    const lessonName = String(this.lesson.name.replace("Lesson ", "") + this.lesson.topics);
     const problems = this.problemIndex.problems.filter(
         ({ lesson }) => String(lesson).includes(lessonName)
     );
