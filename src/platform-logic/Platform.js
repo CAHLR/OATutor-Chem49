@@ -553,7 +553,8 @@ class Platform extends React.Component {
         const progressData = this.getProgressBarData();
         const progressPercent = progressData.percent / 100;
 
-        // const allProblemsCompleted = progressData.completed === progressData.total;
+        const allProblemsCompleted = progressData.completed === progressData.total;
+
         // if (allProblemsCompleted) {
         //     console.debug("updateCanvas called because lesson is complete");
         //     this.updateCanvas(progressPercent, relevantKc);
@@ -561,7 +562,17 @@ class Platform extends React.Component {
 
         this.updateCanvas(progressPercent, relevantKc);
 
-        this._nextProblem(context);
+
+        if (allProblemsCompleted) {
+            toast.success("You've successfully completed this assignment!", {
+                toastId: ToastID.successfully_completed_lesson.toString(),
+            });
+            this.setState({ status: "exhausted" });
+        }
+        else {
+            this._nextProblem(context);
+        }
+
     };
 
     displayMastery = (mastery) => {
