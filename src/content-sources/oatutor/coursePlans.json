@@ -9,9 +9,6 @@
                 "name": "Lesson Stoichiometry",
                 "topics": "",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
                     "stoichiometry": 0.85
                 }
@@ -21,9 +18,6 @@
                 "name": "Lesson Quantum",
                 "topics": "",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
                     "quantum": 0.85
                 }
@@ -33,11 +27,17 @@
                 "name": "Lesson Thermo",
                 "topics": "1",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
                     "thermo": 0.85
+                }
+            },
+            {
+                "id": "063bfrxY-OSJc-zenqDKuUnC",
+                "name": "Lesson Thermo",
+                "topics": "2",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "thermo2": 0.85
                 }
             }
         ]
