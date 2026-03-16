@@ -1,6 +1,7 @@
 [
     {
         "courseName": "Chem 49 Modules",
+        "language": "en",
         "courseOER": "https://openstax.org/ <OpenStax>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [

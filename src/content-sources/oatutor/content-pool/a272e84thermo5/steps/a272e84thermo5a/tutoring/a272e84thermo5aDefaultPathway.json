@@ -27,7 +27,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "q_{water}=360\u00d775(20-T_{eq})"
+            "q_{water}=360*75(20-T_{eq})"
         ],
         "dependencies": [
             "a272e84thermo5a-h2"
@@ -38,10 +38,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "q_{water}=360\u00d775(20-T_{eq})",
+            "q_{water}=360*75(20-T_{eq})",
             "q_{water}=360+75(20-T_{eq})",
             "q_{water}=360+75(T_{eq}-20)",
-            "q_{water}=360\u00d775(T_{eq}\u00d720)"
+            "q_{water}=360*75(T_{eq}*20)"
         ]
     },
     {
@@ -84,7 +84,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "360\u00d775(20-T_{eq})=36\u00d738\u00d710+12014+36\u00d775T_{eq}\\n"
+            "360*75(20-T_{eq})=36*38*10+12014+36*75T_{eq}\\n"
         ],
         "dependencies": [
             "a272e84thermo5a-h5"
@@ -95,10 +95,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "360\u00d775(20-T_{eq})=36\u00d738\u00d710+12014+36\u00d775T_{eq}",
-            "360\u00d775(20-T_{eq})=36+38+10+12014+36\u00d775T_{eq}",
-            "360\u00d775(20-T_{eq})=36\u00d738\u00d710\u00d712014\u00d736\u00d775T_{eq}",
-            "360+75(20\u00d7T_{eq})=36\u00d738+10\u00d712014\u00d736\u00d775T_{eq}"
+            "360*75(20-T_{eq})=36*38*10+12014+36*75T_{eq}",
+            "360*75(20-T_{eq})=36+38+10+12014+36*75T_{eq}",
+            "360*75(20-T_{eq})=36*38*10*12014*36*75T_{eq}",
+            "360+75(20*T_{eq})=36*38+10*12014*36*75T_{eq}"
         ]
     },
     {
